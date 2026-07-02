@@ -34,14 +34,17 @@ def optimize_one(num: int) -> dict:
         candidates.append(onnxoptimizer.optimize(model))
     except Exception:
         pass
-    try:
-        from onnxsim import simplify
+    import os
 
-        sim, ok = simplify(model)
-        if ok:
-            candidates.append(sim)
-    except Exception:
-        pass
+    if not os.environ.get("NG_NO_SIM"):
+        try:
+            from onnxsim import simplify
+
+            sim, ok = simplify(model)
+            if ok:
+                candidates.append(sim)
+        except Exception:
+            pass
     for cand in candidates:
         try:
             r = check(cand, num, extra=100, save_if_ok=False)
