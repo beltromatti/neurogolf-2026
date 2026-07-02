@@ -1,0 +1,72 @@
+{
+ "task016": {
+  "correct": true,
+  "points": 22.697,
+  "robust": "200/200"
+ },
+ "task053": {
+  "correct": false,
+  "points": 0.0,
+  "robust": "196/200"
+ },
+ "task073": {
+  "correct": true,
+  "points": 18.198,
+  "robust": "200/200"
+ },
+ "task095": {
+  "correct": true,
+  "points": 18.198,
+  "robust": "200/200"
+ },
+ "task098": {
+  "correct": true,
+  "points": 18.198,
+  "robust": "200/200"
+ },
+ "task127": {
+  "correct": true,
+  "points": 18.198,
+  "robust": "200/200"
+ },
+ "task179": {
+  "correct": true,
+  "points": 25.0,
+  "robust": "200/200"
+ },
+ "task223": {
+  "correct": true,
+  "points": 12.311,
+  "robust": "200/200"
+ },
+ "task241": {
+  "correct": true,
+  "points": 25.0,
+  "robust": "200/200"
+ },
+ "task261": {
+  "correct": true,
+  "points": 18.198,
+  "robust": "200/200"
+ },
+ "task282": {
+  "correct": true,
+  "points": 18.198,
+  "robust": "200/200"
+ },
+ "task307": {
+  "correct": true,
+  "points": 13.122,
+  "robust": "200/200"
+ },
+ "task317": {
+  "correct": true,
+  "points": 18.198,
+  "robust": "200/200"
+ },
+ "task337": {
+  "correct": true,
+  "points": 22.697,
+  "robust": "200/200"
+ }
+}

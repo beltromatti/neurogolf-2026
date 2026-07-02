@@ -1,0 +1,2790 @@
+[
+ {
+  "task": 1,
+  "points": 18.90192571783376,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task001.onnx",
+  "params": 217,
+  "memory": 228
+ },
+ {
+  "task": 2,
+  "points": 0.0,
+  "source": null
+ },
+ {
+  "task": 3,
+  "points": 19.28957298262513,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task003.onnx",
+  "params": 21,
+  "memory": 281
+ },
+ {
+  "task": 4,
+  "points": 16.455775469532732,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task004.onnx",
+  "params": 93,
+  "memory": 5044
+ },
+ {
+  "task": 5,
+  "points": 16.163335413642574,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task005.onnx",
+  "params": 490,
+  "memory": 6392
+ },
+ {
+  "task": 6,
+  "points": 19.969562078607566,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task006.onnx",
+  "params": 27,
+  "memory": 126
+ },
+ {
+  "task": 7,
+  "points": 20.15581291354141,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task007.onnx",
+  "params": 127,
+  "memory": 0
+ },
+ {
+  "task": 8,
+  "points": 16.364846010950195,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task008.onnx",
+  "params": 65,
+  "memory": 5561
+ },
+ {
+  "task": 9,
+  "points": 15.962823247033006,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task009.onnx",
+  "params": 1081,
+  "memory": 7329
+ },
+ {
+  "task": 10,
+  "points": 18.024586072544047,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task010.onnx",
+  "params": 340,
+  "memory": 730
+ },
+ {
+  "task": 11,
+  "points": 17.343662833569816,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task011.onnx",
+  "params": 123,
+  "memory": 1991
+ },
+ {
+  "task": 12,
+  "points": 17.277322483531997,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task012.onnx",
+  "params": 188,
+  "memory": 2071
+ },
+ {
+  "task": 13,
+  "points": 17.43472471810107,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task013.onnx",
+  "params": 61,
+  "memory": 1869
+ },
+ {
+  "task": 14,
+  "points": 16.664088905803055,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-task-level-onnx-baseline/nets/task014.onnx",
+  "params": 83,
+  "memory": 4088
+ },
+ {
+  "task": 15,
+  "points": 18.197605236675688,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/6154-71-onnx-rewrites-hand-built-solvers/nets/task015.onnx",
+  "params": 900,
+  "memory": 0
+ },
+ {
+  "task": 16,
+  "points": 22.697414907005953,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/6154-71-onnx-rewrites-hand-built-solvers/nets/task016.onnx",
+  "params": 10,
+  "memory": 0
+ },
+ {
+  "task": 17,
+  "points": 16.037992790411685,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task017.onnx",
+  "params": 1804,
+  "memory": 5997
+ },
+ {
+  "task": 18,
+  "points": 0.0,
+  "source": null
+ },
+ {
+  "task": 19,
+  "points": 17.063339844774575,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task019.onnx",
+  "params": 89,
+  "memory": 2709
+ },
+ {
+  "task": 20,
+  "points": 17.6695947881556,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task020.onnx",
+  "params": 170,
+  "memory": 1356
+ },
+ {
+  "task": 21,
+  "points": 18.51383921105591,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task021.onnx",
+  "params": 59,
+  "memory": 597
+ },
+ {
+  "task": 22,
+  "points": 17.25846641071817,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task022.onnx",
+  "params": 298,
+  "memory": 2004
+ },
+ {
+  "task": 23,
+  "points": 0.0,
+  "source": null
+ },
+ {
+  "task": 24,
+  "points": 20.299519634207584,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task024.onnx",
+  "params": 110,
+  "memory": 0
+ },
+ {
+  "task": 25,
+  "points": 15.63573754575156,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task025.onnx",
+  "params": 144,
+  "memory": 11520
+ },
+ {
+  "task": 26,
+  "points": 19.701682633451963,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task026.onnx",
+  "params": 200,
+  "memory": 0
+ },
+ {
+  "task": 27,
+  "points": 17.822217583804804,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task027.onnx",
+  "params": 48,
+  "memory": 1262
+ },
+ {
+  "task": 28,
+  "points": 19.876036020596743,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task028.onnx",
+  "params": 168,
+  "memory": 0
+ },
+ {
+  "task": 29,
+  "points": 16.382961473614046,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-task-level-onnx-baseline/nets/task029.onnx",
+  "params": 89,
+  "memory": 5436
+ },
+ {
+  "task": 30,
+  "points": 17.21844404076466,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task030.onnx",
+  "params": 148,
+  "memory": 2248
+ },
+ {
+  "task": 31,
+  "points": 18.466211162066656,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-task-level-onnx-baseline/nets/task031.onnx",
+  "params": 110,
+  "memory": 578
+ },
+ {
+  "task": 32,
+  "points": 18.186555400489105,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task032.onnx",
+  "params": 910,
+  "memory": 0
+ },
+ {
+  "task": 33,
+  "points": 17.59815842125617,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task033.onnx",
+  "params": 33,
+  "memory": 1606
+ },
+ {
+  "task": 34,
+  "points": 17.231466699073966,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task034.onnx",
+  "params": 167,
+  "memory": 2198
+ },
+ {
+  "task": 35,
+  "points": 17.27643752772203,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task035.onnx",
+  "params": 129,
+  "memory": 2132
+ },
+ {
+  "task": 36,
+  "points": 17.31429693876545,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task036.onnx",
+  "params": 37,
+  "memory": 2140
+ },
+ {
+  "task": 37,
+  "points": 16.534942563004293,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task037.onnx",
+  "params": 132,
+  "memory": 4614
+ },
+ {
+  "task": 38,
+  "points": 19.638707834290575,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task038.onnx",
+  "params": 50,
+  "memory": 163
+ },
+ {
+  "task": 39,
+  "points": 18.826213896098064,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task039.onnx",
+  "params": 56,
+  "memory": 424
+ },
+ {
+  "task": 40,
+  "points": 19.07574420258547,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task040.onnx",
+  "params": 134,
+  "memory": 240
+ },
+ {
+  "task": 41,
+  "points": 17.510587916491282,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task041.onnx",
+  "params": 59,
+  "memory": 1730
+ },
+ {
+  "task": 42,
+  "points": 16.95762199482672,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task042.onnx",
+  "params": 318,
+  "memory": 2792
+ },
+ {
+  "task": 43,
+  "points": 18.322916538752864,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task043.onnx",
+  "params": 206,
+  "memory": 588
+ },
+ {
+  "task": 44,
+  "points": 15.68358936429675,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task044.onnx",
+  "params": 69,
+  "memory": 11050
+ },
+ {
+  "task": 45,
+  "points": 16.0873920363291,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-6425-76/nets/task045.onnx",
+  "params": 25,
+  "memory": 7400
+ },
+ {
+  "task": 46,
+  "points": 17.251539976100304,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task046.onnx",
+  "params": 97,
+  "memory": 2221
+ },
+ {
+  "task": 47,
+  "points": 18.240744729336306,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task047.onnx",
+  "params": 36,
+  "memory": 826
+ },
+ {
+  "task": 48,
+  "points": 17.955967102725314,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task048.onnx",
+  "params": 116,
+  "memory": 1030
+ },
+ {
+  "task": 49,
+  "points": 19.04416263053517,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task049.onnx",
+  "params": 134,
+  "memory": 252
+ },
+ {
+  "task": 50,
+  "points": 16.728451625244485,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task050.onnx",
+  "params": 86,
+  "memory": 3825
+ },
+ {
+  "task": 51,
+  "points": 17.50279277679668,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task051.onnx",
+  "params": 101,
+  "memory": 1702
+ },
+ {
+  "task": 52,
+  "points": 19.575049982518596,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task052.onnx",
+  "params": 14,
+  "memory": 213
+ },
+ {
+  "task": 53,
+  "points": 21.598802618337846,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/6154-71-onnx-rewrites-hand-built-solvers/nets/task053.onnx",
+  "params": 30,
+  "memory": 0
+ },
+ {
+  "task": 54,
+  "points": 14.828892786049146,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-task-level-onnx-baseline/nets/task054.onnx",
+  "params": 238,
+  "memory": 25899
+ },
+ {
+  "task": 55,
+  "points": 15.757482896328597,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task055.onnx",
+  "params": 37,
+  "memory": 10290
+ },
+ {
+  "task": 56,
+  "points": 21.473639475383838,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task056.onnx",
+  "params": 0,
+  "memory": 34
+ },
+ {
+  "task": 57,
+  "points": 18.495711826463356,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task057.onnx",
+  "params": 30,
+  "memory": 638
+ },
+ {
+  "task": 58,
+  "points": 18.05977753088036,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task058.onnx",
+  "params": 781,
+  "memory": 252
+ },
+ {
+  "task": 59,
+  "points": 18.677434760072714,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task059.onnx",
+  "params": 292,
+  "memory": 265
+ },
+ {
+  "task": 60,
+  "points": 18.082294390164694,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task060.onnx",
+  "params": 1010,
+  "memory": 0
+ },
+ {
+  "task": 61,
+  "points": 17.58061941708131,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task061.onnx",
+  "params": 35,
+  "memory": 1633
+ },
+ {
+  "task": 62,
+  "points": 17.16165668444288,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task062.onnx",
+  "params": 71,
+  "memory": 2465
+ },
+ {
+  "task": 63,
+  "points": 17.393612610227347,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task063.onnx",
+  "params": 283,
+  "memory": 1728
+ },
+ {
+  "task": 64,
+  "points": 15.494307049267817,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task064.onnx",
+  "params": 68,
+  "memory": 13368
+ },
+ {
+  "task": 65,
+  "points": 18.53697054307933,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task065.onnx",
+  "params": 59,
+  "memory": 582
+ },
+ {
+  "task": 66,
+  "points": 15.181036012534525,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task066.onnx",
+  "params": 634,
+  "memory": 17745
+ },
+ {
+  "task": 67,
+  "points": 21.14985239828994,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task067.onnx",
+  "params": 8,
+  "memory": 39
+ },
+ {
+  "task": 68,
+  "points": 18.565453481212547,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task068.onnx",
+  "params": 123,
+  "memory": 500
+ },
+ {
+  "task": 69,
+  "points": 16.72819596884529,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task069.onnx",
+  "params": 64,
+  "memory": 3848
+ },
+ {
+  "task": 70,
+  "points": 16.99096931493027,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task070.onnx",
+  "params": 31,
+  "memory": 2977
+ },
+ {
+  "task": 71,
+  "points": 17.0997339632323,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task071.onnx",
+  "params": 55,
+  "memory": 2643
+ },
+ {
+  "task": 72,
+  "points": 18.957367166317617,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task072.onnx",
+  "params": 31,
+  "memory": 390
+ },
+ {
+  "task": 73,
+  "points": 21.311120545886062,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task073.onnx",
+  "params": 40,
+  "memory": 0
+ },
+ {
+  "task": 74,
+  "points": 15.889479963306028,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task074.onnx",
+  "params": 50,
+  "memory": 9000
+ },
+ {
+  "task": 75,
+  "points": 17.695484053539843,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task075.onnx",
+  "params": 161,
+  "memory": 1326
+ },
+ {
+  "task": 76,
+  "points": 14.820169419682085,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-graph-surgeon/nets/submission/task076.onnx",
+  "params": 681,
+  "memory": 25685
+ },
+ {
+  "task": 77,
+  "points": 15.392629998736755,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task077.onnx",
+  "params": 114,
+  "memory": 14760
+ },
+ {
+  "task": 78,
+  "points": 17.835279621228143,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task078.onnx",
+  "params": 33,
+  "memory": 1260
+ },
+ {
+  "task": 79,
+  "points": 16.94706696320243,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task079.onnx",
+  "params": 78,
+  "memory": 3065
+ },
+ {
+  "task": 80,
+  "points": 15.25106320731247,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task080.onnx",
+  "params": 112,
+  "memory": 17024
+ },
+ {
+  "task": 81,
+  "points": 18.860115447773744,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task081.onnx",
+  "params": 72,
+  "memory": 392
+ },
+ {
+  "task": 82,
+  "points": 19.752975927839515,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task082.onnx",
+  "params": 190,
+  "memory": 0
+ },
+ {
+  "task": 83,
+  "points": 18.89744140538643,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task083.onnx",
+  "params": 71,
+  "memory": 376
+ },
+ {
+  "task": 84,
+  "points": 17.38027578621733,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task084.onnx",
+  "params": 241,
+  "memory": 1797
+ },
+ {
+  "task": 85,
+  "points": 16.409370490510582,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task085.onnx",
+  "params": 881,
+  "memory": 4500
+ },
+ {
+  "task": 86,
+  "points": 16.9492966185297,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task086.onnx",
+  "params": 190,
+  "memory": 2946
+ },
+ {
+  "task": 87,
+  "points": 23.3905620875659,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task087.onnx",
+  "params": 5,
+  "memory": 0
+ },
+ {
+  "task": 88,
+  "points": 17.465237342962464,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task088.onnx",
+  "params": 81,
+  "memory": 1791
+ },
+ {
+  "task": 89,
+  "points": 16.110967428125257,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task089.onnx",
+  "params": 160,
+  "memory": 7092
+ },
+ {
+  "task": 90,
+  "points": 16.969915905732435,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-task-level-onnx-baseline/nets/task090.onnx",
+  "params": 82,
+  "memory": 2990
+ },
+ {
+  "task": 91,
+  "points": 16.98434238544266,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task091.onnx",
+  "params": 175,
+  "memory": 2853
+ },
+ {
+  "task": 92,
+  "points": 16.165517391379325,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task092.onnx",
+  "params": 182,
+  "memory": 6685
+ },
+ {
+  "task": 93,
+  "points": 16.822765114489805,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task093.onnx",
+  "params": 103,
+  "memory": 3456
+ },
+ {
+  "task": 94,
+  "points": 17.095665157914905,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task094.onnx",
+  "params": 47,
+  "memory": 2662
+ },
+ {
+  "task": 95,
+  "points": 19.15645558296864,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task095.onnx",
+  "params": 100,
+  "memory": 245
+ },
+ {
+  "task": 96,
+  "points": 15.907655186261525,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-task-level-onnx-baseline/nets/task096.onnx",
+  "params": 804,
+  "memory": 8083
+ },
+ {
+  "task": 97,
+  "points": 18.186555400489105,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task097.onnx",
+  "params": 910,
+  "memory": 0
+ },
+ {
+  "task": 98,
+  "points": 18.197605236675688,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task098.onnx",
+  "params": 900,
+  "memory": 0
+ },
+ {
+  "task": 99,
+  "points": 17.444618055759726,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task099.onnx",
+  "params": 278,
+  "memory": 1633
+ },
+ {
+  "task": 100,
+  "points": 18.702890680066066,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task100.onnx",
+  "params": 89,
+  "memory": 454
+ },
+ {
+  "task": 101,
+  "points": 15.22559660087541,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-task-level-onnx-baseline/nets/task101.onnx",
+  "params": 905,
+  "memory": 16673
+ },
+ {
+  "task": 102,
+  "points": 17.165211892611808,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task102.onnx",
+  "params": 113,
+  "memory": 2414
+ },
+ {
+  "task": 103,
+  "points": 20.9056554377779,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task103.onnx",
+  "params": 24,
+  "memory": 36
+ },
+ {
+  "task": 104,
+  "points": 19.462665732981463,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task104.onnx",
+  "params": 57,
+  "memory": 197
+ },
+ {
+  "task": 105,
+  "points": 17.007055452681893,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task105.onnx",
+  "params": 106,
+  "memory": 2854
+ },
+ {
+  "task": 106,
+  "points": 18.23265687473461,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task106.onnx",
+  "params": 93,
+  "memory": 776
+ },
+ {
+  "task": 107,
+  "points": 16.6866380488656,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task107.onnx",
+  "params": 1154,
+  "memory": 2924
+ },
+ {
+  "task": 108,
+  "points": 19.2962175253438,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-task-level-onnx-baseline/nets/task108.onnx",
+  "params": 300,
+  "memory": 0
+ },
+ {
+  "task": 109,
+  "points": 17.516193312334167,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task109.onnx",
+  "params": 93,
+  "memory": 1686
+ },
+ {
+  "task": 110,
+  "points": 15.468518601828372,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task110.onnx",
+  "params": 632,
+  "memory": 13155
+ },
+ {
+  "task": 111,
+  "points": 18.717733253103994,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task111.onnx",
+  "params": 7,
+  "memory": 528
+ },
+ {
+  "task": 112,
+  "points": 17.519007837130474,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task112.onnx",
+  "params": 158,
+  "memory": 1616
+ },
+ {
+  "task": 113,
+  "points": 21.598802618337846,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/6154-71-onnx-rewrites-hand-built-solvers/nets/task113.onnx",
+  "params": 30,
+  "memory": 0
+ },
+ {
+  "task": 114,
+  "points": 18.197605236675688,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task114.onnx",
+  "params": 900,
+  "memory": 0
+ },
+ {
+  "task": 115,
+  "points": 18.050143544999226,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task115.onnx",
+  "params": 63,
+  "memory": 980
+ },
+ {
+  "task": 116,
+  "points": 21.598802618337846,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/6154-71-onnx-rewrites-hand-built-solvers/nets/task116.onnx",
+  "params": 30,
+  "memory": 0
+ },
+ {
+  "task": 117,
+  "points": 16.665528445399055,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task117.onnx",
+  "params": 243,
+  "memory": 3922
+ },
+ {
+  "task": 118,
+  "points": 14.38052803300117,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task118.onnx",
+  "params": 4775,
+  "memory": 36149
+ },
+ {
+  "task": 119,
+  "points": 17.782556568303466,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task119.onnx",
+  "params": 120,
+  "memory": 1243
+ },
+ {
+  "task": 120,
+  "points": 18.186555400489105,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/6154-71-onnx-rewrites-hand-built-solvers/nets/task120.onnx",
+  "params": 910,
+  "memory": 0
+ },
+ {
+  "task": 121,
+  "points": 19.168117522716482,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task121.onnx",
+  "params": 66,
+  "memory": 275
+ },
+ {
+  "task": 122,
+  "points": 18.302965752333517,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task122.onnx",
+  "params": 810,
+  "memory": 0
+ },
+ {
+  "task": 123,
+  "points": 17.797338803476762,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task123.onnx",
+  "params": 940,
+  "memory": 403
+ },
+ {
+  "task": 124,
+  "points": 17.42287806912332,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task124.onnx",
+  "params": 74,
+  "memory": 1879
+ },
+ {
+  "task": 125,
+  "points": 16.850109455597575,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task125.onnx",
+  "params": 29,
+  "memory": 3434
+ },
+ {
+  "task": 126,
+  "points": 18.59477154196916,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task126.onnx",
+  "params": 15,
+  "memory": 590
+ },
+ {
+  "task": 127,
+  "points": 18.197605236675688,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/6154-71-onnx-rewrites-hand-built-solvers/nets/task127.onnx",
+  "params": 900,
+  "memory": 0
+ },
+ {
+  "task": 128,
+  "points": 18.826213896098064,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task128.onnx",
+  "params": 480,
+  "memory": 0
+ },
+ {
+  "task": 129,
+  "points": 20.61797336532612,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task129.onnx",
+  "params": 0,
+  "memory": 80
+ },
+ {
+  "task": 130,
+  "points": 21.598802618337846,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task130.onnx",
+  "params": 30,
+  "memory": 0
+ },
+ {
+  "task": 131,
+  "points": 16.709205652618643,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task131.onnx",
+  "params": 675,
+  "memory": 3312
+ },
+ {
+  "task": 132,
+  "points": 16.683944279635355,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task132.onnx",
+  "params": 99,
+  "memory": 3990
+ },
+ {
+  "task": 133,
+  "points": 14.57879065701004,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-task-level-onnx-baseline/nets/task133.onnx",
+  "params": 1278,
+  "memory": 32286
+ },
+ {
+  "task": 134,
+  "points": 17.266316429224098,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task134.onnx",
+  "params": 34,
+  "memory": 2250
+ },
+ {
+  "task": 135,
+  "points": 19.113895968549844,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-graph-surgeon/nets/submission/task135.onnx",
+  "params": 0,
+  "memory": 360
+ },
+ {
+  "task": 136,
+  "points": 17.89914809105595,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task136.onnx",
+  "params": 34,
+  "memory": 1179
+ },
+ {
+  "task": 137,
+  "points": 16.832080637042182,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task137.onnx",
+  "params": 93,
+  "memory": 3433
+ },
+ {
+  "task": 138,
+  "points": 15.455976993011353,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task138.onnx",
+  "params": 172,
+  "memory": 13789
+ },
+ {
+  "task": 139,
+  "points": 18.193170639607825,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task139.onnx",
+  "params": 139,
+  "memory": 765
+ },
+ {
+  "task": 140,
+  "points": 23.3905620875659,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task140.onnx",
+  "params": 5,
+  "memory": 0
+ },
+ {
+  "task": 141,
+  "points": 17.683451822817023,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task141.onnx",
+  "params": 101,
+  "memory": 1404
+ },
+ {
+  "task": 142,
+  "points": 19.358092929061886,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task142.onnx",
+  "params": 138,
+  "memory": 144
+ },
+ {
+  "task": 143,
+  "points": 18.268981899517918,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task143.onnx",
+  "params": 247,
+  "memory": 591
+ },
+ {
+  "task": 144,
+  "points": 20.35560910085863,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task144.onnx",
+  "params": 104,
+  "memory": 0
+ },
+ {
+  "task": 145,
+  "points": 15.51089217296161,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task145.onnx",
+  "params": 111,
+  "memory": 13104
+ },
+ {
+  "task": 146,
+  "points": 17.27865138738205,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/6154-71-onnx-rewrites-hand-built-solvers/nets/task146.onnx",
+  "params": 24,
+  "memory": 2232
+ },
+ {
+  "task": 147,
+  "points": 18.723356510658355,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task147.onnx",
+  "params": 100,
+  "memory": 432
+ },
+ {
+  "task": 148,
+  "points": 16.29931926514984,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task148.onnx",
+  "params": 248,
+  "memory": 5759
+ },
+ {
+  "task": 149,
+  "points": 18.76755198344948,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-multi-source-onnx-solver/nets/task149.onnx",
+  "params": 169,
+  "memory": 340
+ },
+ {
+  "task": 150,
+  "points": 19.937404966973034,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task150.onnx",
+  "params": 30,
+  "memory": 128
+ },
+ {
+  "task": 151,
+  "points": 18.197605236675688,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task151.onnx",
+  "params": 900,
+  "memory": 0
+ },
+ {
+  "task": 152,
+  "points": 18.873130815885816,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task152.onnx",
+  "params": 98,
+  "memory": 360
+ },
+ {
+  "task": 153,
+  "points": 18.32165788534567,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task153.onnx",
+  "params": 54,
+  "memory": 741
+ },
+ {
+  "task": 154,
+  "points": 17.077014041288805,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task154.onnx",
+  "params": 99,
+  "memory": 2661
+ },
+ {
+  "task": 155,
+  "points": 19.937404966973034,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task155.onnx",
+  "params": 30,
+  "memory": 128
+ },
+ {
+  "task": 156,
+  "points": 17.536063395531073,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task156.onnx",
+  "params": 47,
+  "memory": 1697
+ },
+ {
+  "task": 157,
+  "points": 15.97250132006466,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-task-level-onnx-baseline/nets/task157.onnx",
+  "params": 351,
+  "memory": 7978
+ },
+ {
+  "task": 158,
+  "points": 14.52759717692328,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task158.onnx",
+  "params": 2340,
+  "memory": 32987
+ },
+ {
+  "task": 159,
+  "points": 17.642443799089648,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task159.onnx",
+  "params": 149,
+  "memory": 1419
+ },
+ {
+  "task": 160,
+  "points": 17.804062773524432,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task160.onnx",
+  "params": 170,
+  "memory": 1164
+ },
+ {
+  "task": 161,
+  "points": 17.148338822110734,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task161.onnx",
+  "params": 99,
+  "memory": 2471
+ },
+ {
+  "task": 162,
+  "points": 16.68909324283155,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task162.onnx",
+  "params": 44,
+  "memory": 4024
+ },
+ {
+  "task": 163,
+  "points": 17.23995931911962,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task163.onnx",
+  "params": 110,
+  "memory": 2235
+ },
+ {
+  "task": 164,
+  "points": 21.598802618337846,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/6154-71-onnx-rewrites-hand-built-solvers/nets/task164.onnx",
+  "params": 30,
+  "memory": 0
+ },
+ {
+  "task": 165,
+  "points": 16.289545311751475,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task165.onnx",
+  "params": 230,
+  "memory": 5836
+ },
+ {
+  "task": 166,
+  "points": 21.821946169652055,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task166.onnx",
+  "params": 24,
+  "memory": 0
+ },
+ {
+  "task": 167,
+  "points": 20.002787726235887,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task167.onnx",
+  "params": 128,
+  "memory": 20
+ },
+ {
+  "task": 168,
+  "points": 17.286215383401245,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task168.onnx",
+  "params": 143,
+  "memory": 2096
+ },
+ {
+  "task": 169,
+  "points": 17.5794210945892,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task169.onnx",
+  "params": 170,
+  "memory": 1500
+ },
+ {
+  "task": 170,
+  "points": 17.158114071015376,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task170.onnx",
+  "params": 329,
+  "memory": 2216
+ },
+ {
+  "task": 171,
+  "points": 18.186555400489105,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/6154-71-onnx-rewrites-hand-built-solvers/nets/task171.onnx",
+  "params": 910,
+  "memory": 0
+ },
+ {
+  "task": 172,
+  "points": 21.598802618337846,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/6154-71-onnx-rewrites-hand-built-solvers/nets/task172.onnx",
+  "params": 30,
+  "memory": 0
+ },
+ {
+  "task": 173,
+  "points": 15.22173559221795,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task173.onnx",
+  "params": 112,
+  "memory": 17534
+ },
+ {
+  "task": 174,
+  "points": 15.902044758618608,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task174.onnx",
+  "params": 178,
+  "memory": 8759
+ },
+ {
+  "task": 175,
+  "points": 17.85559281967886,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task175.onnx",
+  "params": 937,
+  "memory": 330
+ },
+ {
+  "task": 176,
+  "points": 19.519361076658008,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task176.onnx",
+  "params": 240,
+  "memory": 0
+ },
+ {
+  "task": 177,
+  "points": 16.751470875199782,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task177.onnx",
+  "params": 130,
+  "memory": 3692
+ },
+ {
+  "task": 178,
+  "points": 18.362741968715543,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task178.onnx",
+  "params": 61,
+  "memory": 702
+ },
+ {
+  "task": 179,
+  "points": 25.0,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/6154-71-onnx-rewrites-hand-built-solvers/nets/task179.onnx",
+  "params": 0,
+  "memory": 0
+ },
+ {
+  "task": 180,
+  "points": 19.65289246928253,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task180.onnx",
+  "params": 210,
+  "memory": 0
+ },
+ {
+  "task": 181,
+  "points": 19.09191706183107,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task181.onnx",
+  "params": 167,
+  "memory": 201
+ },
+ {
+  "task": 182,
+  "points": 16.176352050808696,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task182.onnx",
+  "params": 98,
+  "memory": 6695
+ },
+ {
+  "task": 183,
+  "points": 17.885230551633537,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task183.onnx",
+  "params": 222,
+  "memory": 1008
+ },
+ {
+  "task": 184,
+  "points": 17.167985819494533,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task184.onnx",
+  "params": 60,
+  "memory": 2460
+ },
+ {
+  "task": 185,
+  "points": 17.418790173803654,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task185.onnx",
+  "params": 310,
+  "memory": 1651
+ },
+ {
+  "task": 186,
+  "points": 20.365271011770364,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task186.onnx",
+  "params": 23,
+  "memory": 80
+ },
+ {
+  "task": 187,
+  "points": 0.0,
+  "source": null
+ },
+ {
+  "task": 188,
+  "points": 17.92250194643077,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task188.onnx",
+  "params": 59,
+  "memory": 1126
+ },
+ {
+  "task": 189,
+  "points": 18.18326411940503,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task189.onnx",
+  "params": 47,
+  "memory": 866
+ },
+ {
+  "task": 190,
+  "points": 17.165211892611808,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task190.onnx",
+  "params": 247,
+  "memory": 2280
+ },
+ {
+  "task": 191,
+  "points": 15.502227586827246,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task191.onnx",
+  "params": 171,
+  "memory": 13159
+ },
+ {
+  "task": 192,
+  "points": 15.938043633790075,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task192.onnx",
+  "params": 106,
+  "memory": 8515
+ },
+ {
+  "task": 193,
+  "points": 18.186555400489105,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task193.onnx",
+  "params": 910,
+  "memory": 0
+ },
+ {
+  "task": 194,
+  "points": 18.14459120139007,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task194.onnx",
+  "params": 49,
+  "memory": 900
+ },
+ {
+  "task": 195,
+  "points": 18.174539963744692,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task195.onnx",
+  "params": 39,
+  "memory": 882
+ },
+ {
+  "task": 196,
+  "points": 16.579758334660212,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task196.onnx",
+  "params": 38,
+  "memory": 4500
+ },
+ {
+  "task": 197,
+  "points": 17.13596434092755,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task197.onnx",
+  "params": 16,
+  "memory": 2586
+ },
+ {
+  "task": 198,
+  "points": 15.484678058493975,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task198.onnx",
+  "params": 138,
+  "memory": 13428
+ },
+ {
+  "task": 199,
+  "points": 17.484110914784875,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task199.onnx",
+  "params": 88,
+  "memory": 1749
+ },
+ {
+  "task": 200,
+  "points": 18.37195862382047,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task200.onnx",
+  "params": 186,
+  "memory": 570
+ },
+ {
+  "task": 201,
+  "points": 16.5631495612663,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task201.onnx",
+  "params": 138,
+  "memory": 4476
+ },
+ {
+  "task": 202,
+  "points": 15.669479467767712,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task202.onnx",
+  "params": 24,
+  "memory": 11253
+ },
+ {
+  "task": 203,
+  "points": 18.986284843957197,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task203.onnx",
+  "params": 1,
+  "memory": 408
+ },
+ {
+  "task": 204,
+  "points": 15.650419560932313,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task204.onnx",
+  "params": 454,
+  "memory": 11040
+ },
+ {
+  "task": 205,
+  "points": 15.576647223909067,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task205.onnx",
+  "params": 640,
+  "memory": 11734
+ },
+ {
+  "task": 206,
+  "points": 16.660499096994055,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task206.onnx",
+  "params": 76,
+  "memory": 4110
+ },
+ {
+  "task": 207,
+  "points": 19.53616819497439,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task207.onnx",
+  "params": 44,
+  "memory": 192
+ },
+ {
+  "task": 208,
+  "points": 16.286746725679293,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task208.onnx",
+  "params": 109,
+  "memory": 5974
+ },
+ {
+  "task": 209,
+  "points": 10.538697530599675,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-5689-51-current-rules-open-solution/nets/task209.onnx",
+  "params": 25707,
+  "memory": 1881790
+ },
+ {
+  "task": 210,
+  "points": 21.598802618337846,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/6154-71-onnx-rewrites-hand-built-solvers/nets/task210.onnx",
+  "params": 30,
+  "memory": 0
+ },
+ {
+  "task": 211,
+  "points": 19.01858578874552,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task211.onnx",
+  "params": 156,
+  "memory": 240
+ },
+ {
+  "task": 212,
+  "points": 17.233583101980344,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task212.onnx",
+  "params": 182,
+  "memory": 2178
+ },
+ {
+  "task": 213,
+  "points": 17.459909679854675,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task213.onnx",
+  "params": 49,
+  "memory": 1833
+ },
+ {
+  "task": 214,
+  "points": 18.357513198632745,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task214.onnx",
+  "params": 41,
+  "memory": 726
+ },
+ {
+  "task": 215,
+  "points": 18.379926793469643,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task215.onnx",
+  "params": 72,
+  "memory": 678
+ },
+ {
+  "task": 216,
+  "points": 15.881007667483123,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task216.onnx",
+  "params": 87,
+  "memory": 9040
+ },
+ {
+  "task": 217,
+  "points": 17.70698232022722,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task217.onnx",
+  "params": 41,
+  "memory": 1429
+ },
+ {
+  "task": 218,
+  "points": 18.510795068674682,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task218.onnx",
+  "params": 103,
+  "memory": 555
+ },
+ {
+  "task": 219,
+  "points": 0.0,
+  "source": null
+ },
+ {
+  "task": 220,
+  "points": 18.197605236675688,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/6154-71-onnx-rewrites-hand-built-solvers/nets/task220.onnx",
+  "params": 900,
+  "memory": 0
+ },
+ {
+  "task": 221,
+  "points": 18.309157722581435,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task221.onnx",
+  "params": 354,
+  "memory": 451
+ },
+ {
+  "task": 222,
+  "points": 15.87576232707723,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task222.onnx",
+  "params": 47,
+  "memory": 9128
+ },
+ {
+  "task": 223,
+  "points": 23.3905620875659,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task223.onnx",
+  "params": 5,
+  "memory": 0
+ },
+ {
+  "task": 224,
+  "points": 17.0516147148881,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task224.onnx",
+  "params": 371,
+  "memory": 2460
+ },
+ {
+  "task": 225,
+  "points": 18.05977753088036,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task225.onnx",
+  "params": 107,
+  "memory": 926
+ },
+ {
+  "task": 226,
+  "points": 17.601825907029536,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task226.onnx",
+  "params": 20,
+  "memory": 1613
+ },
+ {
+  "task": 227,
+  "points": 20.394829814011906,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task227.onnx",
+  "params": 100,
+  "memory": 0
+ },
+ {
+  "task": 228,
+  "points": 18.130985549334294,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task228.onnx",
+  "params": 113,
+  "memory": 849
+ },
+ {
+  "task": 229,
+  "points": 19.519361076658008,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task229.onnx",
+  "params": 28,
+  "memory": 212
+ },
+ {
+  "task": 230,
+  "points": 18.197605236675688,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/6154-71-onnx-rewrites-hand-built-solvers/nets/task230.onnx",
+  "params": 900,
+  "memory": 0
+ },
+ {
+  "task": 231,
+  "points": 19.6109282701835,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task231.onnx",
+  "params": 39,
+  "memory": 180
+ },
+ {
+  "task": 232,
+  "points": 17.748655016627787,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task232.onnx",
+  "params": 1410,
+  "memory": 0
+ },
+ {
+  "task": 233,
+  "points": 14.367925731864547,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-task-level-onnx-baseline/nets/task233.onnx",
+  "params": 717,
+  "memory": 40726
+ },
+ {
+  "task": 234,
+  "points": 16.168726262277453,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task234.onnx",
+  "params": 45,
+  "memory": 6800
+ },
+ {
+  "task": 235,
+  "points": 19.864201562949738,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task235.onnx",
+  "params": 59,
+  "memory": 111
+ },
+ {
+  "task": 236,
+  "points": 19.531939858864867,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task236.onnx",
+  "params": 29,
+  "memory": 208
+ },
+ {
+  "task": 237,
+  "points": 17.449864657511572,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task237.onnx",
+  "params": 138,
+  "memory": 1763
+ },
+ {
+  "task": 238,
+  "points": 17.17795599181438,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task238.onnx",
+  "params": 444,
+  "memory": 2051
+ },
+ {
+  "task": 239,
+  "points": 18.146700906813923,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task239.onnx",
+  "params": 50,
+  "memory": 897
+ },
+ {
+  "task": 240,
+  "points": 14.99318900523197,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-6425-76/nets/task240.onnx",
+  "params": 13735,
+  "memory": 8442
+ },
+ {
+  "task": 241,
+  "points": 25.0,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/6154-71-onnx-rewrites-hand-built-solvers/nets/task241.onnx",
+  "params": 0,
+  "memory": 0
+ },
+ {
+  "task": 242,
+  "points": 18.93157441175589,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task242.onnx",
+  "params": 60,
+  "memory": 372
+ },
+ {
+  "task": 243,
+  "points": 14.97208486908882,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-task-level-onnx-baseline/nets/task243.onnx",
+  "params": 42,
+  "memory": 22608
+ },
+ {
+  "task": 244,
+  "points": 17.92757809946263,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task244.onnx",
+  "params": 103,
+  "memory": 1076
+ },
+ {
+  "task": 245,
+  "points": 17.083192509062396,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task245.onnx",
+  "params": 139,
+  "memory": 2604
+ },
+ {
+  "task": 246,
+  "points": 17.079553494857393,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task246.onnx",
+  "params": 419,
+  "memory": 2334
+ },
+ {
+  "task": 247,
+  "points": 18.847267305295894,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task247.onnx",
+  "params": 62,
+  "memory": 408
+ },
+ {
+  "task": 248,
+  "points": 19.982720163185075,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task248.onnx",
+  "params": 29,
+  "memory": 122
+ },
+ {
+  "task": 249,
+  "points": 19.34051778424038,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task249.onnx",
+  "params": 39,
+  "memory": 248
+ },
+ {
+  "task": 250,
+  "points": 16.72487836978349,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task250.onnx",
+  "params": 161,
+  "memory": 3764
+ },
+ {
+  "task": 251,
+  "points": 16.498936190513646,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task251.onnx",
+  "params": 168,
+  "memory": 4752
+ },
+ {
+  "task": 252,
+  "points": 19.439318368984473,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task252.onnx",
+  "params": 260,
+  "memory": 0
+ },
+ {
+  "task": 253,
+  "points": 18.616493365115993,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task253.onnx",
+  "params": 52,
+  "memory": 540
+ },
+ {
+  "task": 254,
+  "points": 17.998754377930524,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task254.onnx",
+  "params": 19,
+  "memory": 1079
+ },
+ {
+  "task": 255,
+  "points": 0.0,
+  "source": null
+ },
+ {
+  "task": 256,
+  "points": 17.011117746690772,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task256.onnx",
+  "params": 50,
+  "memory": 2898
+ },
+ {
+  "task": 257,
+  "points": 18.986284843957197,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task257.onnx",
+  "params": 409,
+  "memory": 0
+ },
+ {
+  "task": 258,
+  "points": 19.924826184766175,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task258.onnx",
+  "params": 160,
+  "memory": 0
+ },
+ {
+  "task": 259,
+  "points": 18.192065056300073,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task259.onnx",
+  "params": 52,
+  "memory": 853
+ },
+ {
+  "task": 260,
+  "points": 17.3488798242973,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task260.onnx",
+  "params": 299,
+  "memory": 1804
+ },
+ {
+  "task": 261,
+  "points": 19.701682633451963,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/6154-71-onnx-rewrites-hand-built-solvers/nets/task261.onnx",
+  "params": 200,
+  "memory": 0
+ },
+ {
+  "task": 262,
+  "points": 20.336560905887932,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task262.onnx",
+  "params": 16,
+  "memory": 90
+ },
+ {
+  "task": 263,
+  "points": 18.477907201829847,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task263.onnx",
+  "params": 117,
+  "memory": 563
+ },
+ {
+  "task": 264,
+  "points": 16.291525510418335,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task264.onnx",
+  "params": 706,
+  "memory": 5348
+ },
+ {
+  "task": 265,
+  "points": 16.619314053238426,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task265.onnx",
+  "params": 34,
+  "memory": 4328
+ },
+ {
+  "task": 266,
+  "points": 19.142066845516542,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task266.onnx",
+  "params": 35,
+  "memory": 315
+ },
+ {
+  "task": 267,
+  "points": 18.351015449975222,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task267.onnx",
+  "params": 38,
+  "memory": 734
+ },
+ {
+  "task": 268,
+  "points": 16.81576522590518,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task268.onnx",
+  "params": 256,
+  "memory": 3328
+ },
+ {
+  "task": 269,
+  "points": 18.436144473467873,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task269.onnx",
+  "params": 24,
+  "memory": 685
+ },
+ {
+  "task": 270,
+  "points": 16.970892945380264,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task270.onnx",
+  "params": 327,
+  "memory": 2742
+ },
+ {
+  "task": 271,
+  "points": 17.92081560539033,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task271.onnx",
+  "params": 46,
+  "memory": 1141
+ },
+ {
+  "task": 272,
+  "points": 19.003547911380977,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task272.onnx",
+  "params": 202,
+  "memory": 200
+ },
+ {
+  "task": 273,
+  "points": 17.32213649932179,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task273.onnx",
+  "params": 51,
+  "memory": 2109
+ },
+ {
+  "task": 274,
+  "points": 19.579465000727716,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task274.onnx",
+  "params": 80,
+  "memory": 146
+ },
+ {
+  "task": 275,
+  "points": 17.393612610227347,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task275.onnx",
+  "params": 637,
+  "memory": 1374
+ },
+ {
+  "task": 276,
+  "points": 22.697414907005953,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/6154-71-onnx-rewrites-hand-built-solvers/nets/task276.onnx",
+  "params": 10,
+  "memory": 0
+ },
+ {
+  "task": 277,
+  "points": 16.72487836978349,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task277.onnx",
+  "params": 224,
+  "memory": 3701
+ },
+ {
+  "task": 278,
+  "points": 16.278886852237314,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task278.onnx",
+  "params": 47,
+  "memory": 6084
+ },
+ {
+  "task": 279,
+  "points": 16.37754629792627,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task279.onnx",
+  "params": 47,
+  "memory": 5508
+ },
+ {
+  "task": 280,
+  "points": 16.29466886646837,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task280.onnx",
+  "params": 753,
+  "memory": 5282
+ },
+ {
+  "task": 281,
+  "points": 17.22262639734214,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task281.onnx",
+  "params": 65,
+  "memory": 2321
+ },
+ {
+  "task": 282,
+  "points": 18.899681047979936,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task282.onnx",
+  "params": 39,
+  "memory": 407
+ },
+ {
+  "task": 283,
+  "points": 18.186555400489105,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/6154-71-onnx-rewrites-hand-built-solvers/nets/task283.onnx",
+  "params": 910,
+  "memory": 0
+ },
+ {
+  "task": 284,
+  "points": 16.774496902433082,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task284.onnx",
+  "params": 653,
+  "memory": 3082
+ },
+ {
+  "task": 285,
+  "points": 14.864052429512313,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task285.onnx",
+  "params": 550,
+  "memory": 24684
+ },
+ {
+  "task": 286,
+  "points": 14.249507487110552,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task286.onnx",
+  "params": 741,
+  "memory": 45912
+ },
+ {
+  "task": 287,
+  "points": 17.402102049478216,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task287.onnx",
+  "params": 295,
+  "memory": 1699
+ },
+ {
+  "task": 288,
+  "points": 18.13515222202914,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task288.onnx",
+  "params": 189,
+  "memory": 769
+ },
+ {
+  "task": 289,
+  "points": 18.39065075683262,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task289.onnx",
+  "params": 124,
+  "memory": 618
+ },
+ {
+  "task": 290,
+  "points": 19.127882210524582,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task290.onnx",
+  "params": 63,
+  "memory": 292
+ },
+ {
+  "task": 291,
+  "points": 20.780492294823894,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task291.onnx",
+  "params": 28,
+  "memory": 40
+ },
+ {
+  "task": 292,
+  "points": 18.926955465899596,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task292.onnx",
+  "params": 182,
+  "memory": 252
+ },
+ {
+  "task": 293,
+  "points": 17.8391540933357,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task293.onnx",
+  "params": 41,
+  "memory": 1247
+ },
+ {
+  "task": 294,
+  "points": 18.186555400489105,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/6154-71-onnx-rewrites-hand-built-solvers/nets/task294.onnx",
+  "params": 910,
+  "memory": 0
+ },
+ {
+  "task": 295,
+  "points": 17.61974421157354,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task295.onnx",
+  "params": 47,
+  "memory": 1557
+ },
+ {
+  "task": 296,
+  "points": 19.200907345539473,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task296.onnx",
+  "params": 45,
+  "memory": 285
+ },
+ {
+  "task": 297,
+  "points": 17.763660657245655,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task297.onnx",
+  "params": 39,
+  "memory": 1350
+ },
+ {
+  "task": 298,
+  "points": 20.09472522156157,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task298.onnx",
+  "params": 15,
+  "memory": 120
+ },
+ {
+  "task": 299,
+  "points": 21.087976994571854,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task299.onnx",
+  "params": 50,
+  "memory": 0
+ },
+ {
+  "task": 300,
+  "points": 18.70843086044168,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task300.onnx",
+  "params": 66,
+  "memory": 474
+ },
+ {
+  "task": 301,
+  "points": 17.960339650137925,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task301.onnx",
+  "params": 64,
+  "memory": 1077
+ },
+ {
+  "task": 302,
+  "points": 17.519007837130474,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task302.onnx",
+  "params": 558,
+  "memory": 1216
+ },
+ {
+  "task": 303,
+  "points": 17.71930280461526,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-task-level-onnx-baseline/nets/task303.onnx",
+  "params": 22,
+  "memory": 1430
+ },
+ {
+  "task": 304,
+  "points": 17.726907404000478,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task304.onnx",
+  "params": 37,
+  "memory": 1404
+ },
+ {
+  "task": 305,
+  "points": 18.544801436659878,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task305.onnx",
+  "params": 340,
+  "memory": 296
+ },
+ {
+  "task": 306,
+  "points": 19.2962175253438,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task306.onnx",
+  "params": 300,
+  "memory": 0
+ },
+ {
+  "task": 307,
+  "points": 23.3905620875659,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task307.onnx",
+  "params": 5,
+  "memory": 0
+ },
+ {
+  "task": 308,
+  "points": 17.694811784606962,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task308.onnx",
+  "params": 103,
+  "memory": 1385
+ },
+ {
+  "task": 309,
+  "points": 22.697414907005953,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/6154-71-onnx-rewrites-hand-built-solvers/nets/task309.onnx",
+  "params": 10,
+  "memory": 0
+ },
+ {
+  "task": 310,
+  "points": 16.90226942633578,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task310.onnx",
+  "params": 79,
+  "memory": 3208
+ },
+ {
+  "task": 311,
+  "points": 21.598802618337846,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/6154-71-onnx-rewrites-hand-built-solvers/nets/task311.onnx",
+  "params": 30,
+  "memory": 0
+ },
+ {
+  "task": 312,
+  "points": 22.00426772644601,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task312.onnx",
+  "params": 20,
+  "memory": 0
+ },
+ {
+  "task": 313,
+  "points": 19.76355803717005,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task313.onnx",
+  "params": 188,
+  "memory": 0
+ },
+ {
+  "task": 314,
+  "points": 20.394829814011906,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task314.onnx",
+  "params": 100,
+  "memory": 0
+ },
+ {
+  "task": 315,
+  "points": 19.561920691076804,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task315.onnx",
+  "params": 230,
+  "memory": 0
+ },
+ {
+  "task": 316,
+  "points": 18.94556065373063,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task316.onnx",
+  "params": 38,
+  "memory": 388
+ },
+ {
+  "task": 317,
+  "points": 20.016393378291664,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task317.onnx",
+  "params": 18,
+  "memory": 128
+ },
+ {
+  "task": 318,
+  "points": 20.394829814011906,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task318.onnx",
+  "params": 100,
+  "memory": 0
+ },
+ {
+  "task": 319,
+  "points": 15.005392854096389,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-task-level-onnx-baseline/nets/task319.onnx",
+  "params": 231,
+  "memory": 21677
+ },
+ {
+  "task": 320,
+  "points": 18.35360948515227,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task320.onnx",
+  "params": 322,
+  "memory": 448
+ },
+ {
+  "task": 321,
+  "points": 19.2962175253438,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task321.onnx",
+  "params": 300,
+  "memory": 0
+ },
+ {
+  "task": 322,
+  "points": 19.701682633451963,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task322.onnx",
+  "params": 56,
+  "memory": 144
+ },
+ {
+  "task": 323,
+  "points": 17.31429693876545,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task323.onnx",
+  "params": 656,
+  "memory": 1521
+ },
+ {
+  "task": 324,
+  "points": 15.906867828929359,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task324.onnx",
+  "params": 1586,
+  "memory": 7308
+ },
+ {
+  "task": 325,
+  "points": 17.33471528152865,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task325.onnx",
+  "params": 123,
+  "memory": 2010
+ },
+ {
+  "task": 326,
+  "points": 21.598802618337846,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task326.onnx",
+  "params": 30,
+  "memory": 0
+ },
+ {
+  "task": 327,
+  "points": 18.218942374063822,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task327.onnx",
+  "params": 71,
+  "memory": 810
+ },
+ {
+  "task": 328,
+  "points": 16.16043349634205,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task328.onnx",
+  "params": 1940,
+  "memory": 4962
+ },
+ {
+  "task": 329,
+  "points": 18.034919654398593,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task329.onnx",
+  "params": 30,
+  "memory": 1029
+ },
+ {
+  "task": 330,
+  "points": 16.986325857167316,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task330.onnx",
+  "params": 222,
+  "memory": 2800
+ },
+ {
+  "task": 331,
+  "points": 18.186555400489105,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/6154-71-onnx-rewrites-hand-built-solvers/nets/task331.onnx",
+  "params": 910,
+  "memory": 0
+ },
+ {
+  "task": 332,
+  "points": 18.666720371860308,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task332.onnx",
+  "params": 134,
+  "memory": 429
+ },
+ {
+  "task": 333,
+  "points": 16.92069180794804,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task333.onnx",
+  "params": 435,
+  "memory": 2792
+ },
+ {
+  "task": 334,
+  "points": 19.716796271262012,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task334.onnx",
+  "params": 8,
+  "memory": 189
+ },
+ {
+  "task": 335,
+  "points": 16.839196079045337,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task335.onnx",
+  "params": 661,
+  "memory": 2840
+ },
+ {
+  "task": 336,
+  "points": 17.42904141683099,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task336.onnx",
+  "params": 1186,
+  "memory": 755
+ },
+ {
+  "task": 337,
+  "points": 22.697414907005953,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/6154-71-onnx-rewrites-hand-built-solvers/nets/task337.onnx",
+  "params": 10,
+  "memory": 0
+ },
+ {
+  "task": 338,
+  "points": 15.268190844159347,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-task-level-onnx-baseline/nets/task338.onnx",
+  "params": 699,
+  "memory": 16146
+ },
+ {
+  "task": 339,
+  "points": 20.058357577390694,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task339.onnx",
+  "params": 100,
+  "memory": 40
+ },
+ {
+  "task": 340,
+  "points": 15.690810263981648,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task340.onnx",
+  "params": 129,
+  "memory": 10910
+ },
+ {
+  "task": 341,
+  "points": 17.735269822070133,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task341.onnx",
+  "params": 35,
+  "memory": 1394
+ },
+ {
+  "task": 342,
+  "points": 17.63166031368862,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task342.onnx",
+  "params": 75,
+  "memory": 1510
+ },
+ {
+  "task": 343,
+  "points": 17.380766583773195,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task343.onnx",
+  "params": 110,
+  "memory": 1927
+ },
+ {
+  "task": 344,
+  "points": 18.186555400489105,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task344.onnx",
+  "params": 910,
+  "memory": 0
+ },
+ {
+  "task": 345,
+  "points": 17.690118514175214,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task345.onnx",
+  "params": 64,
+  "memory": 1431
+ },
+ {
+  "task": 346,
+  "points": 17.865906278807135,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task346.onnx",
+  "params": 30,
+  "memory": 1224
+ },
+ {
+  "task": 347,
+  "points": 18.527653705499098,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-6425-76/nets/task347.onnx",
+  "params": 35,
+  "memory": 612
+ },
+ {
+  "task": 348,
+  "points": 17.27114417614746,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task348.onnx",
+  "params": 169,
+  "memory": 2104
+ },
+ {
+  "task": 349,
+  "points": 15.015485608821498,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-task-level-onnx-baseline/nets/task349.onnx",
+  "params": 88,
+  "memory": 21600
+ },
+ {
+  "task": 350,
+  "points": 15.891028122412106,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-task-level-onnx-baseline/nets/task350.onnx",
+  "params": 24,
+  "memory": 9012
+ },
+ {
+  "task": 351,
+  "points": 17.59086355607987,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task351.onnx",
+  "params": 19,
+  "memory": 1632
+ },
+ {
+  "task": 352,
+  "points": 18.86877351051686,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task352.onnx",
+  "params": 460,
+  "memory": 0
+ },
+ {
+  "task": 353,
+  "points": 19.1888590070233,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task353.onnx",
+  "params": 62,
+  "memory": 272
+ },
+ {
+  "task": 354,
+  "points": 16.968289624677958,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task354.onnx",
+  "params": 79,
+  "memory": 2998
+ },
+ {
+  "task": 355,
+  "points": 17.078827278412987,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task355.onnx",
+  "params": 27,
+  "memory": 2728
+ },
+ {
+  "task": 356,
+  "points": 17.815370847282686,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task356.onnx",
+  "params": 19,
+  "memory": 1300
+ },
+ {
+  "task": 357,
+  "points": 19.326676732828506,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task357.onnx",
+  "params": 33,
+  "memory": 258
+ },
+ {
+  "task": 358,
+  "points": 16.60927747263771,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task358.onnx",
+  "params": 150,
+  "memory": 4256
+ },
+ {
+  "task": 359,
+  "points": 16.595751567599898,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task359.onnx",
+  "params": 14,
+  "memory": 4452
+ },
+ {
+  "task": 360,
+  "points": 19.17105438238979,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task360.onnx",
+  "params": 340,
+  "memory": 0
+ },
+ {
+  "task": 361,
+  "points": 16.51553663320668,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task361.onnx",
+  "params": 367,
+  "memory": 4472
+ },
+ {
+  "task": 362,
+  "points": 18.744249958246634,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task362.onnx",
+  "params": 113,
+  "memory": 408
+ },
+ {
+  "task": 363,
+  "points": 16.558392795540357,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task363.onnx",
+  "params": 297,
+  "memory": 4339
+ },
+ {
+  "task": 364,
+  "points": 14.956185447372594,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task364.onnx",
+  "params": 113,
+  "memory": 22900
+ },
+ {
+  "task": 365,
+  "points": 16.698974746161547,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task365.onnx",
+  "params": 120,
+  "memory": 3908
+ },
+ {
+  "task": 366,
+  "points": 14.498088119218814,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task366.onnx",
+  "params": 488,
+  "memory": 35897
+ },
+ {
+  "task": 367,
+  "points": 14.917237192606322,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-task-level-onnx-baseline/nets/task367.onnx",
+  "params": 5627,
+  "memory": 18300
+ },
+ {
+  "task": 368,
+  "points": 16.26367127866709,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task368.onnx",
+  "params": 203,
+  "memory": 6022
+ },
+ {
+  "task": 369,
+  "points": 17.622866287166048,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task369.onnx",
+  "params": 299,
+  "memory": 1300
+ },
+ {
+  "task": 370,
+  "points": 15.753038444568173,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task370.onnx",
+  "params": 1267,
+  "memory": 9106
+ },
+ {
+  "task": 371,
+  "points": 18.853670742331104,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task371.onnx",
+  "params": 91,
+  "memory": 376
+ },
+ {
+  "task": 372,
+  "points": 18.43473502996464,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task372.onnx",
+  "params": 710,
+  "memory": 0
+ },
+ {
+  "task": 373,
+  "points": 20.9056554377779,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task373.onnx",
+  "params": 60,
+  "memory": 0
+ },
+ {
+  "task": 374,
+  "points": 17.25759797818422,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task374.onnx",
+  "params": 42,
+  "memory": 2262
+ },
+ {
+  "task": 375,
+  "points": 19.142066845516542,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task375.onnx",
+  "params": 242,
+  "memory": 108
+ },
+ {
+  "task": 376,
+  "points": 19.774253326286797,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task376.onnx",
+  "params": 42,
+  "memory": 144
+ },
+ {
+  "task": 377,
+  "points": 15.951590495170038,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task377.onnx",
+  "params": 154,
+  "memory": 8351
+ },
+ {
+  "task": 378,
+  "points": 16.59061476121807,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task378.onnx",
+  "params": 117,
+  "memory": 4372
+ },
+ {
+  "task": 379,
+  "points": 15.713254296821411,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task379.onnx",
+  "params": 1274,
+  "memory": 9520
+ },
+ {
+  "task": 380,
+  "points": 20.40488014986541,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task380.onnx",
+  "params": 99,
+  "memory": 0
+ },
+ {
+  "task": 381,
+  "points": 17.304696865036433,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task381.onnx",
+  "params": 70,
+  "memory": 2128
+ },
+ {
+  "task": 382,
+  "points": 16.33732214184178,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task382.onnx",
+  "params": 135,
+  "memory": 5648
+ },
+ {
+  "task": 383,
+  "points": 16.10163439304464,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task383.onnx",
+  "params": 74,
+  "memory": 7246
+ },
+ {
+  "task": 384,
+  "points": 16.877331976653593,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-6425-76/nets/task384.onnx",
+  "params": 163,
+  "memory": 3207
+ },
+ {
+  "task": 385,
+  "points": 21.598802618337846,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/6154-71-onnx-rewrites-hand-built-solvers/nets/task385.onnx",
+  "params": 30,
+  "memory": 0
+ },
+ {
+  "task": 386,
+  "points": 19.648141866523932,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task386.onnx",
+  "params": 31,
+  "memory": 180
+ },
+ {
+  "task": 387,
+  "points": 16.471075885708064,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task387.onnx",
+  "params": 105,
+  "memory": 4954
+ },
+ {
+  "task": 388,
+  "points": 17.17755527051068,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task388.onnx",
+  "params": 218,
+  "memory": 2278
+ },
+ {
+  "task": 389,
+  "points": 20.058357577390694,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task389.onnx",
+  "params": 12,
+  "memory": 128
+ },
+ {
+  "task": 390,
+  "points": 16.96407363010821,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task390.onnx",
+  "params": 467,
+  "memory": 2623
+ },
+ {
+  "task": 391,
+  "points": 19.93109579777977,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task391.onnx",
+  "params": 24,
+  "memory": 135
+ },
+ {
+  "task": 392,
+  "points": 17.42390265937689,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task392.onnx",
+  "params": 349,
+  "memory": 1602
+ },
+ {
+  "task": 393,
+  "points": 20.030186700424,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task393.onnx",
+  "params": 19,
+  "memory": 125
+ },
+ {
+  "task": 394,
+  "points": 17.062625303836704,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task394.onnx",
+  "params": 929,
+  "memory": 1871
+ },
+ {
+  "task": 395,
+  "points": 19.89405452609942,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task395.onnx",
+  "params": 21,
+  "memory": 144
+ },
+ {
+  "task": 396,
+  "points": 15.633938753027042,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task396.onnx",
+  "params": 138,
+  "memory": 11547
+ },
+ {
+  "task": 397,
+  "points": 17.069074627516613,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-task-level-onnx-baseline/nets/task397.onnx",
+  "params": 200,
+  "memory": 2582
+ },
+ {
+  "task": 398,
+  "points": 16.39864950057704,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/neurogolf-2026-all-graph-surgeries/nets/submission/task398.onnx",
+  "params": 92,
+  "memory": 5347
+ },
+ {
+  "task": 399,
+  "points": 20.48914049348315,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/agi-neural-golf-visualization-baseline/nets/task399.onnx",
+  "params": 20,
+  "memory": 71
+ },
+ {
+  "task": 400,
+  "points": 17.468447618592712,
+  "source": "/Users/beltromatti/Desktop/ML1/data/bundles/audited-neurogolf-onnx-overrides/nets/task400.onnx",
+  "params": 66,
+  "memory": 1800
+ }
+]

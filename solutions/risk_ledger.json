@@ -1,0 +1,6 @@
+{
+ "task002": {
+  "robust": "292/300",
+  "note": "ambiguous fake-pot rings between adjacent pots; irreducible ~2.7%/pair"
+ }
+}

@@ -1,0 +1,10 @@
+# large reconstructible data (see SETUP.md)
+data/
+# runtime artifacts
+toolkit/traces/
+toolkit/neurogolf-2026
+**/__pycache__/
+.DS_Store
+*.log
+nohup.out
+solutions/_cand_*.onnx

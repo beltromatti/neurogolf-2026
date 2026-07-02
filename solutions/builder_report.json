@@ -1,0 +1,247 @@
+{
+ "t001": {
+  "correct": true,
+  "points": 15.99,
+  "prev": 17.98,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t002": {
+  "correct": false,
+  "points": 0.0,
+  "prev": 10.84,
+  "improved": false,
+  "robust_bad": 8
+ },
+ "t003": {
+  "correct": true,
+  "points": 17.63,
+  "prev": 19.29,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t004": {
+  "correct": true,
+  "points": 13.66,
+  "prev": 16.32,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t006": {
+  "correct": true,
+  "points": 18.62,
+  "prev": 19.97,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t007": {
+  "correct": true,
+  "points": 16.37,
+  "prev": 20.16,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t008": {
+  "correct": true,
+  "points": 14.39,
+  "prev": 16.36,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t010": {
+  "correct": true,
+  "points": 15.29,
+  "prev": 18.02,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t011": {
+  "correct": true,
+  "points": 14.76,
+  "prev": 17.34,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t012": {
+  "correct": true,
+  "points": 14.56,
+  "prev": 17.28,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t013": {
+  "correct": true,
+  "points": 12.7,
+  "prev": 17.43,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t014": {
+  "correct": true,
+  "points": 12.74,
+  "prev": 16.0,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t015": {
+  "correct": true,
+  "points": 15.69,
+  "prev": 18.2,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t017": {
+  "correct": true,
+  "points": 12.42,
+  "prev": 15.55,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t019": {
+  "correct": true,
+  "points": 14.44,
+  "prev": 16.97,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t020": {
+  "correct": true,
+  "points": 15.04,
+  "prev": 17.67,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t021": {
+  "correct": true,
+  "points": 15.84,
+  "prev": 17.94,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t022": {
+  "correct": true,
+  "points": 14.86,
+  "prev": 17.26,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t024": {
+  "correct": true,
+  "points": 14.63,
+  "prev": 20.3,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t025": {
+  "correct": true,
+  "points": 12.05,
+  "prev": 15.43,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t026": {
+  "correct": true,
+  "points": 18.32,
+  "prev": 19.7,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t027": {
+  "correct": true,
+  "points": 13.74,
+  "prev": 17.82,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t028": {
+  "correct": true,
+  "points": 15.68,
+  "prev": 19.88,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t029": {
+  "correct": true,
+  "points": 13.53,
+  "prev": 15.72,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t030": {
+  "correct": true,
+  "points": 13.57,
+  "prev": 17.22,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t031": {
+  "correct": true,
+  "points": 13.73,
+  "prev": 17.7,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t032": {
+  "correct": true,
+  "points": 13.92,
+  "prev": 18.19,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t035": {
+  "correct": true,
+  "points": 15.09,
+  "prev": 16.95,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t036": {
+  "correct": true,
+  "points": 14.02,
+  "prev": 17.31,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t037": {
+  "correct": true,
+  "points": 14.56,
+  "prev": 16.53,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t038": {
+  "correct": true,
+  "points": 18.16,
+  "prev": 19.64,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t039": {
+  "correct": true,
+  "points": 16.08,
+  "prev": 18.83,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t040": {
+  "correct": true,
+  "points": 15.53,
+  "prev": 19.08,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t041": {
+  "correct": true,
+  "points": 15.29,
+  "prev": 17.51,
+  "improved": false,
+  "robust_bad": 0
+ },
+ "t042": {
+  "correct": true,
+  "points": 15.1,
+  "prev": 16.96,
+  "improved": false,
+  "robust_bad": 0
+ }
+}
